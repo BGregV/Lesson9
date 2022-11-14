@@ -6,4 +6,4 @@ void PrintNumber(int m, int n)
     PrintNumber(m, n - 1);
     Console.Write(n + " ");
 }
-PrintNumber(1, 10);
+PrintNumber(1, 15);
